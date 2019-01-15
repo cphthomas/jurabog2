@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Jura](README.md)
+* [Jura 2](jura-2.md)
 
